@@ -1,4 +1,4 @@
-## This is the header
+## This is a markdown file
 
 Let's add some regular text:
 
@@ -7,4 +7,3 @@ Let's add some regular text:
 
 And why not, a [Link to Google](http://www.google.com) too.
 
-More text.
